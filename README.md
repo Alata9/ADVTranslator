@@ -1,5 +1,6 @@
 # ADVTranslator (Tkinter)
 Advanced Tkinter translator with additional options for three languages: Russian, English, Hebrew
+Translator voiced. 
 Allows you to enter text manually or download from word or txt files.
 You can save the translated text in a word document as a table: original-translation.
 There is a counter of unique words from the downloaded text sorted by frequency or alphabetically for making a learning list.
